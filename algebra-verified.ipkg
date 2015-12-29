@@ -1,0 +1,5 @@
+package algebra
+
+modules = Maths.AlgebraVerified.Magma
+		, Maths.AlgebraVerified.Semigroup
+		, Maths.AlgebraVerified.Monoid
